@@ -37,8 +37,8 @@ else:
 # Set streamlit page configuration
 # st.set_page_config(page_title="Dream 11 Chatbot")
 # st.title("Dream 11 Chatbot - FunctionCalling")
-st.set_page_config(page_title="Travelbot")
-st.title("Travelbot")
+st.set_page_config(page_title="Cricken Expert")
+st.title("Cricket Expert")
 
 # Initialize session state variables
 if 'entered_prompt' not in st.session_state:
